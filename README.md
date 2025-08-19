@@ -25,17 +25,18 @@ Estou em constante aprendizado e aberto a desafios que me permitam evoluir como 
 
 ## 📚 Projetos em Destaque
 
-- ### 1️⃣ Sistema de Cadastro em C
+### 1️⃣ Sistema de Cadastro em C
 - **Descrição:** Programa simples que permite cadastrar pessoas (nome e idade) e listar os cadastros.
 - **Tecnologias:** Linguagem C, console
 - **Funcionalidades:** Adicionar pessoa, listar cadastros, limite de 100 pessoas
 - **Código e repositório:** [Visualizar no GitHub](https://github.com/Bernardokrothh/projeto-c-cadastro)
 
-- ### 2️⃣ Calculadora em Python
+### 2️⃣ Calculadora em Python
 - **Descrição:** Calculadora básica que realiza soma, subtração, multiplicação e divisão, com menu interativo e tratamento de divisão por zero.
 - **Tecnologias:** Python, console
 - **Funcionalidades:** Operações matemáticas básicas, menu interativo, sair a qualquer momento
 - **Código e repositório:** [Visualizar no GitHub](https://github.com/Bernardokrothh/projeto-py-calculadora)
+
 ---
 
 ## 📫 Como me encontrar
