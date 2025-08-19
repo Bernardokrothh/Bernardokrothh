@@ -25,7 +25,11 @@ Estou em constante aprendizado e aberto a desafios que me permitam evoluir como 
 
 ## 📚 Projetos em Destaque
 
-🔹 
+🔹 ### 1️⃣ Sistema de Cadastro em C
+- **Descrição:** Programa simples que permite cadastrar pessoas (nome e idade) e listar os cadastros.
+- **Tecnologias:** Linguagem C, console
+- **Funcionalidades:** Adicionar pessoa, listar cadastros, limite de 100 pessoas
+- **Código e repositório:** [Visualizar no GitHub](https://github.com/Bernardokrothh/projeto-c-cadastro)
 ---
 
 ## 📫 Como me encontrar
