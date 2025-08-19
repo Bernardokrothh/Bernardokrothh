@@ -1,8 +1,8 @@
 # Olá, Eu sou o Bernardo Kroth.
 
-* 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** |
-* 🎖️ Em formação no **Núcleo de Preparação de Oficiais da Reserva (NPOR/EB)** |
-* 💻 Aspirante a **Desenvolvedor Full Stack** |
+* 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** 
+* 🎖️ Em formação no **Núcleo de Preparação de Oficiais da Reserva (NPOR/EB)** 
+* 💻 Aspirante a **Desenvolvedor Full Stack** 
 * 🌱 Foco em **aprendizado contínuo** e **projetos web**
 
 ---
