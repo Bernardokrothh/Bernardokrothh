@@ -1,4 +1,4 @@
-# Olá, Eu sou o Bernardo Kroth,
+# Olá, Eu sou o Bernardo Kroth.
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
 🎖️ Em formação no **Núcleo de Preparação de Oficiais da Reserva (NPOR/EB)**
